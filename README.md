@@ -14,25 +14,25 @@ Upon starting the program, you will be greeted by the first page, limited to a r
 - **Real-Time Reports:** Monitor RAM and CPU usage using the `psutil` library.
 - **Inactive Buttons:** Placeholder buttons without assigned functions.
 
-![Page 1](Preview/1.png)
+![Page 1](Preview/1.PNG)
 
 ### Page 2: Security
 
 Navigate to the Security page, where a prominent "SCAN" button awaits. Clicking the button opens a sub-window featuring a scanning bar. Although the scan is not functional, it provides a simulated experience of a scan in progress.
 
-![Page 2](Preview/2.png)
+![Page 1](Preview/2.PNG)
 
 ### Page 3: Update
 
 The Update page displays information about the current version of the app and its release date. Integration with a real-time database is recommended for accurate data delivery.
 
-![Page 3](Preview/3.png)
+![Page 1](Preview/3.PNG)
 
 ### Page 4: Tasks
 
 The Tasks page defaults to a label affirming that all CPUs are working flawlessly. Additional hardware reports, including CPU usage, RAM usage, and CPU frequency, provide users with real-time performance metrics.
 
-![Page 4](Preview/4.png)
+![Page 1](Preview/4.PNG)
 
 ### Page 5: License
 
@@ -45,7 +45,7 @@ On the License page, users can find:
 - A clickable "Save Code" button (not functional).
 - A label guiding users to click the "Renew Button" for those without a code, leading to the GitHub page.
 
-![Page 5](Preview/5.png)
+![Page 1](Preview/5.PNG)
 
 ## Color Patterns
 
